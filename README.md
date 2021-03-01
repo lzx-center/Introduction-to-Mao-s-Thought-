@@ -1,2 +1,2 @@
-# Introduction-to-Mao-s-Thought-
-Introduction to Mao Zedong Thought class materials of CUC
+# 毛泽东思想概论
+中国传媒大学毛概题库
